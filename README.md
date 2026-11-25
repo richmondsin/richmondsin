@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richmond Sin</h1>
-<h3 align="center">A passionate full-stack Data Scientist from Singapore</h3>
+<h3 align="center">An AI Researcher</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/richmondsin/)
 [![Website Badge](https://img.shields.io/badge/Website-A84A66?style=for-square&logo=google-chrome&logoColor=white)](https://richmondsin.vercel.app/)
@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richmondsin&label=Profile%20views&color=0e75b6&style=flat" alt="richmondsin" /> </p>
 
 - 👩‍💻 My interest lies in **Data Science**, **Machine Learning** and **Quant**.
-- 💪 I'm currently working on many different *AI projects*
 - 👨‍💻 All of my projects are available <a href="https://richmondsin.vercel.app/" target="_blank">here</a>.
 
 <h3 align="left">Connect with me:</h3>
